@@ -1,0 +1,16 @@
+# Build outputs and temporary files
+*.obj
+*.pdb
+*.tmp
+*.log
+share_settings.txt
+payload.zip
+make_ico.exe
+make_ico.cs
+
+# Node dependencies (can be reinstalled or bundled via build script)
+# tunnel/node_modules/
+
+# OS metadata
+Thumbs.db
+.DS_Store
